@@ -1,0 +1,17 @@
+<h1>Tracks At GoMyCode</h1>
+
+    <!-- Disc bullets -->
+    <ul type="disc">
+      <li>AI Track</li>
+      <li>Web Track</li>
+      <li>Game Track</li>
+      <li>Data Science Track</li>
+    </ul>
+
+    <!-- Square bullets -->
+    <ul type="square">
+      <li>AI Track</li>
+      <li>Web Track</li>
+      <li>Game Track</li>
+      <li>Data Science Track</li>
+    </ul>
